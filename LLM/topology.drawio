@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T05:18:30.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="tjfgPMaZ71PSgT81Zt8O" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T05:19:42.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lNA0-bPnZmZWNbnIaDco" version="21.3.2" type="github">
   <diagram name="Page-1" id="tJ_38dr5mo-NUTQZeIwZ">
     <mxGraphModel dx="2074" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
         <mxCell id="stzHTUKX5vKNhYuvutbB-18" value="ai-namespace3" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="stzHTUKX5vKNhYuvutbB-5">
           <mxGeometry x="20" y="180" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="stzHTUKX5vKNhYuvutbB-20" value="AI Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="stzHTUKX5vKNhYuvutbB-18">
+        <mxCell id="stzHTUKX5vKNhYuvutbB-20" value="AI Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="stzHTUKX5vKNhYuvutbB-18">
           <mxGeometry x="100" y="35" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="stzHTUKX5vKNhYuvutbB-72" value="S3" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="stzHTUKX5vKNhYuvutbB-22">
