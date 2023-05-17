@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T05:10:36.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eGmibpfEUhvKXjwQStqb" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T05:11:47.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="MkwzkRC9otvQVwjUxk7s" version="21.3.2" type="github">
   <diagram name="Page-1" id="tJ_38dr5mo-NUTQZeIwZ">
     <mxGraphModel dx="2074" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,10 +35,10 @@
           <mxGeometry x="17.5" y="200" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="stzHTUKX5vKNhYuvutbB-137" value="flan-t5-endpoint-conf" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="stzHTUKX5vKNhYuvutbB-136">
-          <mxGeometry x="65" y="30" width="135" height="30" as="geometry" />
+          <mxGeometry x="65" y="30" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="stzHTUKX5vKNhYuvutbB-138" value="oasst-small-endpoint-conf" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="stzHTUKX5vKNhYuvutbB-136">
-          <mxGeometry x="65" y="80" width="135" height="30" as="geometry" />
+          <mxGeometry x="65" y="80" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="stzHTUKX5vKNhYuvutbB-133" value="Models" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="stzHTUKX5vKNhYuvutbB-44">
           <mxGeometry x="17.5" y="360" width="250" height="120" as="geometry" />
