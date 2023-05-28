@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-28T10:10:13.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="f42o1ID4owR5dbppsWgZ" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-28T10:42:41.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nUJgyHHrsA5-s17znq6q" version="21.3.4" type="github">
   <diagram name="Page-1" id="tJ_38dr5mo-NUTQZeIwZ">
     <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,9 +66,11 @@
         <mxCell id="stzHTUKX5vKNhYuvutbB-5" value="EU8" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="stzHTUKX5vKNhYuvutbB-2" vertex="1">
           <mxGeometry x="35" y="40" width="310" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="stzHTUKX5vKNhYuvutbB-6" value="itsma-namespace1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="stzHTUKX5vKNhYuvutbB-5" vertex="1">
-          <mxGeometry x="30" y="50" width="250" height="220" as="geometry" />
-        </mxCell>
+        <UserObject label="itsma-namespace1" link="https://github.com/Ice-YcY/Diagram/blob/main/LLM/SMAX-AI.drawio" id="stzHTUKX5vKNhYuvutbB-6">
+          <mxCell style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="stzHTUKX5vKNhYuvutbB-5" vertex="1">
+            <mxGeometry x="30" y="50" width="250" height="220" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="stzHTUKX5vKNhYuvutbB-7" value="platform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;verticalAlign=top;" parent="stzHTUKX5vKNhYuvutbB-6" vertex="1">
           <mxGeometry x="105" y="70" width="70" height="90" as="geometry" />
         </mxCell>
