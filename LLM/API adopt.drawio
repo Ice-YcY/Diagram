@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T05:19:15.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Pr5dcvMr_IeQ8Z8AZKUf" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T05:19:31.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="qz3jgA79HBMutBVc-jkt" version="24.0.5" type="github">
   <diagram name="Page-1" id="7rRLar5LLWZetchV7N0B">
     <mxGraphModel dx="2074" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
         <mxCell id="Jt7BeiViqLmYP_f0gVZy-18" value="aviator mode" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="440" y="460" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Jt7BeiViqLmYP_f0gVZy-19" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Jt7BeiViqLmYP_f0gVZy-19" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="450" y="810" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QXgqqfu3BRJYcwZkLF_K-1" value="NLU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
