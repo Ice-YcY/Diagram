@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T07:13:06.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="c-CSiNMci6847Z6D46W4" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T07:13:23.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FOTU_KTCHvkrKxh0iVjW" version="24.0.7" type="github">
   <diagram name="Page-1" id="7rRLar5LLWZetchV7N0B">
     <mxGraphModel dx="2924" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -238,10 +238,10 @@
           <mxGeometry x="79" y="1040" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="CkF1QyvzWnhgEHajljZw-3" value="Assumptions&lt;div&gt;1.tenant : smax tenant &amp;lt;-&amp;gt; aviator tenant , lifecycle&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="645" y="345" width="445" height="100" as="geometry" />
+          <mxGeometry x="-366" y="190" width="445" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CkF1QyvzWnhgEHajljZw-4" value="comments:&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="645" y="480" width="355" height="100" as="geometry" />
+          <mxGeometry x="260" y="190" width="355" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
