@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T02:27:29.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1TpMon8CfnfoSdEzMmSA" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T02:29:19.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="OiJJdV6Qp_BbqYdXGSAr" version="24.0.5" type="github">
   <diagram name="Page-1" id="7rRLar5LLWZetchV7N0B">
     <mxGraphModel dx="2825" dy="1095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -218,6 +218,27 @@
         </mxCell>
         <mxCell id="QXgqqfu3BRJYcwZkLF_K-161" value="OPB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXgqqfu3BRJYcwZkLF_K-164" value="&lt;span style=&quot;text-align: left;&quot;&gt;external index&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="78" y="480" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QXgqqfu3BRJYcwZkLF_K-165" value="&lt;span style=&quot;text-align: left;&quot;&gt;SMAX knowledge index&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="590" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QXgqqfu3BRJYcwZkLF_K-166" value="&lt;span style=&quot;text-align: left;&quot;&gt;chat&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="677.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QXgqqfu3BRJYcwZkLF_K-167" value="&lt;span style=&quot;text-align: left;&quot;&gt;BR&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="78" y="777" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QXgqqfu3BRJYcwZkLF_K-168" value="&lt;span style=&quot;text-align: left;&quot;&gt;qna&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="78" y="870" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QXgqqfu3BRJYcwZkLF_K-169" value="&lt;span style=&quot;text-align: left;&quot;&gt;qna&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="78" y="954.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QXgqqfu3BRJYcwZkLF_K-170" value="&lt;span style=&quot;text-align: left;&quot;&gt;qna&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="79" y="1040" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
