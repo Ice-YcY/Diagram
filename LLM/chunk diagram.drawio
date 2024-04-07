@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T11:44:05.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.0.7" etag="6NME3VSSQPfS5PlUYEhc" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T12:28:05.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4-_p2Ct-GZy-v3nzw6iy" version="24.0.7" type="github">
   <diagram name="Page-1" id="VIG2ifg1LBZ5gkHXGFVg">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gZ4jgqPuIZQv47306n9A-1" value="detect input language" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gZ4jgqPuIZQv47306n9A-2" value="get Completion model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gZ4jgqPuIZQv47306n9A-3" value="get Context" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gZ4jgqPuIZQv47306n9A-4" value="search chunks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
