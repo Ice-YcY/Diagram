@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oVzN6b4c_mjMynB9cBv3-44" value="VA" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="35" y="-70" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oVzN6b4c_mjMynB9cBv3-45" value="widget" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="35" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oVzN6b4c_mjMynB9cBv3-46" value="Agent" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="35" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oVzN6b4c_mjMynB9cBv3-48" value="Entitlement rule &amp;amp; Data domain" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="265" y="-65" width="270" height="100" as="geometry" />
+          <mxGeometry x="270" y="5" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="oVzN6b4c_mjMynB9cBv3-50" value="VDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="635" y="40" width="60" height="80" as="geometry" />
+          <mxGeometry x="640" y="110" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oVzN6b4c_mjMynB9cBv3-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oVzN6b4c_mjMynB9cBv3-44" target="oVzN6b4c_mjMynB9cBv3-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -32,13 +32,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oVzN6b4c_mjMynB9cBv3-55" value="Data domain" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="265" y="90" width="270" height="100" as="geometry" />
+          <mxGeometry x="270" y="160" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="oVzN6b4c_mjMynB9cBv3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oVzN6b4c_mjMynB9cBv3-55" target="oVzN6b4c_mjMynB9cBv3-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oVzN6b4c_mjMynB9cBv3-57" value="IDOL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="695" y="40" width="60" height="80" as="geometry" />
+          <mxGeometry x="700" y="110" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W-R3_HDRKSmAY20k_7-Z-1" value="VA" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="35" y="-420" width="120" height="80" as="geometry" />
